@@ -1,0 +1,22 @@
+{
+  "name": "premirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujkkk/PreMirror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujkkk/PreMirror/issues"
+  },
+  "homepage": "https://github.com/ujkkk/PreMirror#readme",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  }
+}
