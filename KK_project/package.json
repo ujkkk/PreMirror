@@ -1,0 +1,22 @@
+{
+  "name": "electron_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujkkk/PreMirror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujkkk/PreMirror/issues"
+  },
+  "homepage": "https://github.com/ujkkk/PreMirror#readme",
+  "dependencies": {
+    "electron": "^19.0.8"
+  }
+}
